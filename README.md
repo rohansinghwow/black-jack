@@ -1,5 +1,5 @@
 # black-jack
 Simple Client Side implementation of Black Jack game
 
-![Alt text](https://siasky.net/fAb5-xIPo-BJeRHfpJv8GEB6ZJQg6rYvGMgnzzwpj3DAdw?raw=true "Start Screen")
-![Alt text](https://siasky.net/fAY80GEqCECUbH8ukRedbnl638iCsBlXaUI4CtE2-1KSEQ?raw=true "End Game")
+![Alt text](https://siasky.net/_AA028E53a10HSzYEEcFYZQRxeZ67LX3FsjMhVgXCaADig?raw=true "Start Screen")
+![Alt text](https://siasky.net/_AAdMFK2WucfUAJPvkHp5C5QKuavrzCFfRj0mgLijmqd6A?raw=true "End Game")
